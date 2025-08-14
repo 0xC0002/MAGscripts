@@ -1,0 +1,163 @@
+<div id="MainContent_upDadosAdicionais">
+		
+                <div id="MainContent_pnlDadosAdicionais">
+			
+                    <h6>Dados Adicionais</h6>
+                    <table class="BuscaContainerTabela950px">
+                        <tbody><tr>
+                            <th class="Col1_DA"></th>
+                            <th class="Col2_DA"></th>
+                        </tr>
+                        
+                                
+                            
+                                <tr id="MainContent_rptDadosAdicionais_trLinhaDA_1">
+				<td>
+                                        <span id="MainContent_rptDadosAdicionais_lblI_1" class="ManLabelObr" maxlength="15">T1-Filial</span>
+                                    </td>
+				<td colspan="5" class="WrapFalse css_verticalMiddle">
+                                        
+                                        
+
+<link href="../Styles/Busca.css" rel="stylesheet" type="text/css">
+<link href="../Styles/UserControl/ucDropDownListComBusca.css" rel="stylesheet" type="text/css">
+<script src="../Scripts/UserControl/ucDropDownListComBusca.js" type="text/javascript"></script>
+
+<table id="MainContent_rptDadosAdicionais_ucDropDownListComBusca_1_tbl_dropdownlist_1" class="uc_table">
+					<tbody><tr class="uc_tr">
+						<td class="uc_td WrapFalse"><select name="ctl00$MainContent$rptDadosAdicionais$ctl01$ucDropDownListComBusca$_ucDDComBusca_ddlI" id="_ucDDComBusca_ddlI" class=" chzn-select css_font10 Column250px" data-placeholder="Selecione uma opção" style="display: none;">
+							<option value=".null."></option>
+							<option value="000">000. CODIGO GENERICO</option>
+							<option selected="selected" value="011">011. MATRIZ</option>
+							<option value="021">021. RIO DE JANEIRO</option>
+							<option value="022">022. SAO JOSE DOS CAMPOS</option>
+							<option value="023">023. NITEROI</option>
+							<option value="024">024. VENDA DIRIGIDA (RJ)</option>
+							<option value="025">025. FRANCA</option>
+							<option value="027">027. VENDA DIRIGIDA - DF</option>
+							<option value="031">031. SAO PAULO</option>
+							<option value="032">032. BAURU</option>
+							<option value="033">033. RIBEIRAO PRETO</option>
+							<option value="034">034. CAMPINAS</option>
+							<option value="035">035. SAO BERNARDO</option>
+							<option value="036">036. SAO PAULO INSTITUIDOS</option>
+							<option value="037">037. SAO JOSE DO RIO PRETO</option>
+							<option value="038">038. SANTOS</option>
+							<option value="039">039. ARACATUBA</option>
+							<option value="040">040. PIRACICABA</option>
+							<option value="041">041. RECIFE</option>
+							<option value="042">042. MACEIO</option>
+							<option value="043">043. JOAO PESSOA</option>
+							<option value="044">044. NATAL</option>
+							<option value="045">045. PETROLINA</option>
+							<option value="046">046. PRESIDENTE PRUDENTE</option>
+							<option value="047">047. JUNDIAI</option>
+							<option value="048">048. MARILIA</option>
+							<option value="049">049. ARARAQUARA</option>
+							<option value="051">051. BELO HORIZONTE</option>
+							<option value="052">052. UBERLANDIA</option>
+							<option value="053">053. POUSO ALEGRE</option>
+							<option value="054">054. JUIZ DE FORA</option>
+							<option value="056">056. NOVA LIMA</option>
+							<option value="061">061. BRASILIA</option>
+							<option value="062">062. GOIANIA</option>
+							<option value="063">063. PALMAS</option>
+							<option value="064">064. VENDA CERTA - DF</option>
+							<option value="071">071. SALVADOR</option>
+							<option value="081">081. CURITIBA</option>
+							<option value="082">082. FLORIANOPOLIS</option>
+							<option value="083">083. BLUMENAU</option>
+							<option value="084">084. LONDRINA</option>
+							<option value="085">085. CASCAVEL</option>
+							<option value="086">086. CHAPECO</option>
+							<option value="091">091. FORTALEZA</option>
+							<option value="092">092. SAO LUIS</option>
+							<option value="093">093. BELEM</option>
+							<option value="094">094. FORTALEZA  - VENDA CERTA - CE</option>
+							<option value="095">095. ESCRITORIO BARRA DA TIJUCA</option>
+							<option value="101">101. CAMPO GRANDE</option>
+							<option value="111">111. PORTO ALEGRE</option>
+							<option value="112">112. SANTA MARIA</option>
+							<option value="113">113. CAXIAS DO SUL</option>
+							<option value="114">114. SANTA MARIA</option>
+							<option value="121">121. VITORIA</option>
+							<option value="122">122. VITORIA PREVES</option>
+							<option value="123">123. VITORIA PREVES</option>
+							<option value="131">131. MANAUS</option>
+							<option value="141">141. SOROCABA</option>
+							<option value="142">142. MARILIA</option>
+							<option value="144">144. SP PREVCOM - SP</option>
+							<option value="151">151. ARACAJU</option>
+							<option value="161">161. CUIABA</option>
+							<option value="162">162. MACAPA</option>
+							<option value="171">171. TERESINA</option>
+							<option value="188">188. ABRIGO MARINHEIRO - RJ</option>
+							<option value="191">191. VENDA CERTA - RJ</option>
+							<option value="192">192. PORTO VELHO</option>
+							<option value="193">193. NOVA CUIBA</option>
+							<option value="999">999. GENERICA</option>
+							<option value="LES">LES. DIRETORIA REGIONAL LESTE</option>
+							<option value="OES">OES. DIRETORIA REGIONAL OESTE</option>
+							<option value="SUL">SUL. DIRETORIA REGIONAL SUL</option>
+							<option value="ZZZ">ZZZ. TESTE</option>
+
+						</select><div class="chzn-container chzn-container-single chzn-select css_font10 Column250px" title="" id="_ucDDComBusca_ddlI_chosen"><a class="chzn-single"><span>011. MATRIZ</span><div><b></b></div></a><div class="chzn-drop"><div class="chzn-search"><input type="text" autocomplete="off"></div><ul class="chzn-results"></ul></div></div>&nbsp;
+            <input type="hidden" name="ctl00$MainContent$rptDadosAdicionais$ctl01$ucDropDownListComBusca$_ucDDComBusca_rowindex" id="_ucDDComBusca_rowindex" value="0"><input type="hidden" name="ctl00$MainContent$rptDadosAdicionais$ctl01$ucDropDownListComBusca$hdt_Inf" id="MainContent_rptDadosAdicionais_ucDropDownListComBusca_1_hdt_Inf_1" value="1"><input type="hidden" name="ctl00$MainContent$rptDadosAdicionais$ctl01$ucDropDownListComBusca$hdb_Combo" id="MainContent_rptDadosAdicionais_ucDropDownListComBusca_1_hdb_Combo_1" value="False"><input type="hidden" name="ctl00$MainContent$rptDadosAdicionais$ctl01$ucDropDownListComBusca$hdn_I" id="MainContent_rptDadosAdicionais_ucDropDownListComBusca_1_hdn_I_1" value="1"><input type="hidden" name="ctl00$MainContent$rptDadosAdicionais$ctl01$ucDropDownListComBusca$_ucDDComBusca_hdb_Visivel" id="_ucDDComBusca_hdb_Visivel" value="True"><input type="hidden" name="ctl00$MainContent$rptDadosAdicionais$ctl01$ucDropDownListComBusca$hdt_Code_Tam" id="MainContent_rptDadosAdicionais_ucDropDownListComBusca_1_hdt_Code_Tam_1" value="3"><input type="hidden" name="ctl00$MainContent$rptDadosAdicionais$ctl01$ucDropDownListComBusca$hdt_Valida" id="MainContent_rptDadosAdicionais_ucDropDownListComBusca_1_hdt_Valida_1" value="1"></td>
+					</tr>
+				</tbody></table>
+
+
+                                    </td>
+			</tr>
+			
+                            
+                                <tr id="MainContent_rptDadosAdicionais_trLinhaDA_2">
+				<td>
+                                        <span id="MainContent_rptDadosAdicionais_lblI_2" class="ManLabelObr" maxlength="15">T2-Centro de Custo</span>
+                                    </td>
+				<td colspan="5" class="WrapFalse css_verticalMiddle">
+                                        
+                                        
+
+<link href="../Styles/Busca.css" rel="stylesheet" type="text/css">
+<link href="../Styles/UserControl/ucDropDownListComBusca.css" rel="stylesheet" type="text/css">
+<script src="../Scripts/UserControl/ucDropDownListComBusca.js" type="text/javascript"></script>
+
+<table id="MainContent_rptDadosAdicionais_ucDropDownListComBusca_2_tbl_dropdownlist_2" class="uc_table">
+					<tbody><tr class="uc_tr">
+						<td class="uc_td WrapFalse"><select name="ctl00$MainContent$rptDadosAdicionais$ctl02$ucDropDownListComBusca$_ucDDComBusca_ddlI" id="_ucDDComBusca_ddlI" class=" chzn-select css_font10 Column250px" data-placeholder="Selecione uma opção" style="display: none;">
+							<option value="C446">C446. UNIDADE DE NEGOCIO ADMINISTRATIVO SOROCABA</option>
+
+						</select><div class="chzn-container chzn-container-single chzn-select css_font10 Column250px" title="" id="_ucDDComBusca_ddlI_chosen"><a class="chzn-single"><span>C446. UNIDADE DE NEGOCIO ADMINISTRATIVO SOROCABA</span><div><b></b></div></a><div class="chzn-drop"><div class="chzn-search"><input type="text" autocomplete="off"></div><ul class="chzn-results"></ul></div></div>&nbsp;
+            <input type="submit" name="ctl00$MainContent$rptDadosAdicionais$ctl02$ucDropDownListComBusca$_ucDDComBusca_btnAbreBuscaI" value="..." id="_ucDDComBusca_btnAbreBuscaI" title="Buscar outras opcoes"><input type="hidden" name="ctl00$MainContent$rptDadosAdicionais$ctl02$ucDropDownListComBusca$_ucDDComBusca_rowindex" id="_ucDDComBusca_rowindex" value="0"><input type="hidden" name="ctl00$MainContent$rptDadosAdicionais$ctl02$ucDropDownListComBusca$hdt_Inf" id="MainContent_rptDadosAdicionais_ucDropDownListComBusca_2_hdt_Inf_2" value="2"><input type="hidden" name="ctl00$MainContent$rptDadosAdicionais$ctl02$ucDropDownListComBusca$hdb_Combo" id="MainContent_rptDadosAdicionais_ucDropDownListComBusca_2_hdb_Combo_2" value="False"><input type="hidden" name="ctl00$MainContent$rptDadosAdicionais$ctl02$ucDropDownListComBusca$hdn_I" id="MainContent_rptDadosAdicionais_ucDropDownListComBusca_2_hdn_I_2" value="2"><input type="hidden" name="ctl00$MainContent$rptDadosAdicionais$ctl02$ucDropDownListComBusca$_ucDDComBusca_hdb_Visivel" id="_ucDDComBusca_hdb_Visivel" value="True"><input type="hidden" name="ctl00$MainContent$rptDadosAdicionais$ctl02$ucDropDownListComBusca$hdt_Code_Tam" id="MainContent_rptDadosAdicionais_ucDropDownListComBusca_2_hdt_Code_Tam_2" value="4"><input type="hidden" name="ctl00$MainContent$rptDadosAdicionais$ctl02$ucDropDownListComBusca$hdt_Valida" id="MainContent_rptDadosAdicionais_ucDropDownListComBusca_2_hdt_Valida_2" value="1"></td>
+					</tr>
+				</tbody></table>
+
+
+                                    </td>
+			</tr>
+			
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                    </tbody></table>
+                
+		</div>
+            
+	</div>

@@ -53,7 +53,7 @@
                         if (!links.length) {
                             alert("nenhum anexo encontrado.");
                             return;
-                        }
+                        }   
                         for (const a of links) {
                             const fileUrl = a.href.startsWith("http")
                                 ? a.href
